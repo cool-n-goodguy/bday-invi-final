@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//A Decade and Eight//Birthday Invitation//EN
+BEGIN:VEVENT
+UID:71028c2e-8a18-4a1b-bd13-d33785bbdf64@decadeandeight.local
+DTSTAMP:20261105T081203Z
+DTSTART:20261207T190000
+SUMMARY:Kristine Therese L. Camillo's 18th Birthday
+DESCRIPTION:A Decade and Eight — an evening fit for a fairytale.
+END:VEVENT
+END:VCALENDAR
